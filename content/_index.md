@@ -1,8 +1,7 @@
 ---
-title: "About"
+title: "Home"
 date: 2022-10-07T21:12:14+01:00
 draft: false
-layout: "about"
+layout: "index"
 ---
 
-# The About Page
