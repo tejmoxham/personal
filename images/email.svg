@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 72 72"
+   version="1.1"
+   id="svg836"
+   sodipodi:docname="email.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview838"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.7436492"
+     inkscape:cx="44.101848"
+     inkscape:cy="46.835434"
+     inkscape:window-width="1312"
+     inkscape:window-height="861"
+     inkscape:window-x="200"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg836" />
+  <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title824">Email</title>
+  <desc
+     id="desc826">Created with Sketch.</desc>
+  <defs
+     id="defs828" />
+  <metadata
+     id="metadata920">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Email</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g1310"
+     style="fill:#343a2e;fill-opacity:1">
+    <g
+       id="g1285"
+       style="fill:#343a2e;fill-opacity:1">
+      <g
+         id="Email"
+         style="fill:#343a2e;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1">
+        <path
+           d="m 8,72 h 56 c 4.418278,0 8,-3.581722 8,-8 V 8 C 72,3.581722 68.418278,0 64,0 H 8 C 3.581722,0 0,3.581722 0,8 v 56 c 0,4.418278 3.581722,8 8,8 z"
+           id="Rounded"
+           fill="#000000"
+           style="fill:#343a2e;fill-opacity:1" />
+        <path
+           d="m 18,26.162323 v 20.38529 c 0,1.109032 0.811742,2.007871 1.930064,2.007871 h 31.81471 c 1.117162,0 1.930065,-0.90929 1.930065,-2.007871 V 26.162323 C 53.674839,24.94529 52.947871,24 51.744774,24 H 19.930064 C 18.680516,24 18,24.968516 18,26.162323 m 2.933419,1.775612 c 0,-0.491225 0.297291,-0.772258 0.772258,-0.772258 0.293807,0 11.854452,7.32542 12.55471,7.755097 l 1.80929,1.12529 c 0.573678,-0.384387 1.149678,-0.713032 1.744258,-1.111354 1.213549,-0.775742 12.011226,-7.769033 12.308517,-7.769033 0.476129,0 0.772258,0.281033 0.772258,0.772258 0,0.520258 -1.002194,1.037033 -1.654839,1.435355 -4.100516,2.499097 -8.199871,5.223484 -12.259742,7.815484 -0.236903,0.160258 -0.695613,0.502839 -1.039355,0.450581 -0.383226,-0.05923 -12.147097,-7.616903 -14.287355,-8.875742 -0.321677,-0.18929 -0.72,-0.362323 -0.72,-0.825678"
+           fill="#ffffff"
+           id="path831"
+           style="fill:#343a2e;fill-opacity:1" />
+      </g>
+      <rect
+         style="fill:#343a2e;stroke-width:1.88976;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+         id="rect951"
+         width="47.50359"
+         height="33.822556"
+         x="14.061063"
+         y="21.851652" />
+    </g>
+  </g>
+  <path
+     d="M 56.800995,17.669292 H 15.199013 a 5.3857375,5.3857375 0 0 0 -5.38574,5.385737 v 26.544614 a 4.7136116,4.7136116 0 0 0 1.632306,3.561395 v 0 a 4.7048823,4.7048823 0 0 0 3.098759,1.169671 h 42.256657 a 5.3857375,5.3857375 0 0 0 5.385732,-5.385738 V 23.05503 A 5.3857375,5.3857375 0 0 0 56.800995,17.669292 Z M 13.304836,23.334348 29.331118,37.745782 13.304836,49.198111 Z m 25.5146,13.171927 -0.113473,0.08729 -2.705956,2.444097 -2.70597,-2.435372 -0.113474,-0.09601 -17.065014,-15.345423 h 39.768912 z m -6.826001,3.622497 2.836896,2.557575 a 1.7457819,1.7457819 0 0 0 2.339348,0 L 40.006571,40.128772 54.994112,50.83915 H 17.005891 Z M 42.668891,37.745782 58.695168,23.334348 V 48.94497 a 1.8505294,1.8505294 0 0 1 0,0.226955 z"
+     id="path1133"
+     style="fill:#ffffff;stroke-width:0.872893" />
+</svg>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Thomas E. J. Moxham</title>
+    <link>https://tejmoxham.github.io/personal/</link>
+    <description>Recent content in Home on Thomas E. J. Moxham</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2022 21:12:14 +0100</lastBuildDate><atom:link href="https://tejmoxham.github.io/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://tejmoxham.github.io/personal/about/</link>
+      <pubDate>Fri, 07 Oct 2022 21:12:14 +0100</pubDate>
+      
+      <guid>https://tejmoxham.github.io/personal/about/</guid>
+      <description>The About Page </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tejmoxham.github.io/personal/contact/</link>
+      <pubDate>Fri, 07 Oct 2022 21:12:14 +0100</pubDate>
+      
+      <guid>https://tejmoxham.github.io/personal/contact/</guid>
+      <description>The Contact Page </description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://tejmoxham.github.io/personal/courses/</link>
+      <pubDate>Fri, 07 Oct 2022 21:12:14 +0100</pubDate>
+      
+      <guid>https://tejmoxham.github.io/personal/courses/</guid>
+      <description>The Courses Page </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://tejmoxham.github.io/personal/research/</link>
+      <pubDate>Fri, 07 Oct 2022 21:12:14 +0100</pubDate>
+      
+      <guid>https://tejmoxham.github.io/personal/research/</guid>
+      <description>The Research Page </description>
+    </item>
+    
+  </channel>
+</rss>
